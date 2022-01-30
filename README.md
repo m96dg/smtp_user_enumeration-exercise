@@ -5,6 +5,8 @@ Obiettivo dell’esercitazione è di effettuare l’enumerazione degli utenti. P
 
 Per l’esercitazione è comodo utilizzare un docker vulnerabile ad hoc presente su docker hub:
 
+Link: **https://hub.docker.com/repository/docker/m96dg/pw_smtp_postfix**
+
 **$docker pull m96dg/pw_smtp_postfix**
 
 ![image](https://user-images.githubusercontent.com/65173648/150690619-4a9ee53b-b513-4fd9-a678-b31f4d7f9885.png)
